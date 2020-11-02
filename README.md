@@ -1,2 +1,5 @@
 # Borislove.github.io
-Сайт
+
+Практика от яндекс:
+
+* [Четыре правила вёрстки](Borislove.github.io/index.html)
