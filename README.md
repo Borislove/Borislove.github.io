@@ -2,4 +2,4 @@
 
 Практика от яндекс:
 
-* [Четыре правила вёрстки](Borislove.github.io/index.html)
+* [Четыре правила вёрстки](https://borislove.github.io/index.html)
